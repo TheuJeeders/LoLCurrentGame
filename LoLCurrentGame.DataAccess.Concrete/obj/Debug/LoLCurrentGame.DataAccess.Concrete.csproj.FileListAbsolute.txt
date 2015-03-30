@@ -1,0 +1,41 @@
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.dll.config
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.Business.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Abstract.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.Business.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Abstract.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\Newtonsoft.Json.dll
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\RiotSharp.dll
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\Newtonsoft.Json.xml
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\RiotSharp.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.Business.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Abstract.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\Newtonsoft.Json.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\RiotSharp.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.Business.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Abstract.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\Newtonsoft.Json.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\bin\RiotSharp.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.csprojResolveAssemblyReference.cache
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.dll.config
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.Business.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Abstract.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\Newtonsoft.Json.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\RiotSharp.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.Business.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\LoLCurrentGame.DataAccess.Abstract.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\Newtonsoft.Json.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\bin\RiotSharp.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.DataAccess.Concrete\obj\Debug\LoLCurrentGame.DataAccess.Concrete.pdb

@@ -1,0 +1,19 @@
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\LoLCurrentGame.Business.dll.config
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\LoLCurrentGame.Business.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\LoLCurrentGame.Business.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\obj\Debug\LoLCurrentGame.Business.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\obj\Debug\LoLCurrentGame.Business.pdb
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\Newtonsoft.Json.dll
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\RiotSharp.dll
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\Newtonsoft.Json.xml
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\RiotSharp.xml
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Business\obj\Debug\LoLCurrentGame.Business.csprojResolveAssemblyReference.cache
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\LoLCurrentGame.Business.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\LoLCurrentGame.Business.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\Newtonsoft.Json.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\RiotSharp.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\Newtonsoft.Json.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\bin\RiotSharp.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\obj\Debug\LoLCurrentGame.Business.csprojResolveAssemblyReference.cache
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\obj\Debug\LoLCurrentGame.Business.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Business\obj\Debug\LoLCurrentGame.Business.pdb

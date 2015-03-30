@@ -1,0 +1,116 @@
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.dll.config
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.pdb
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Newtonsoft.Json.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Helpers.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Mvc.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Razor.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Newtonsoft.Json.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Helpers.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Mvc.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Razor.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Helpers.resources.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Mvc.resources.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Razor.resources.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.WebPages.resources.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.csprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.dll
+c:\users\raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Business.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Abstract.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Business.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Abstract.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\RiotSharp.dll
+C:\Users\Raphael\documents\visual studio 2013\Projects\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\RiotSharp.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Business.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Abstract.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Newtonsoft.Json.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Helpers.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Http.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Mvc.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Razor.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\RiotSharp.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.Business.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Abstract.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\Newtonsoft.Json.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Helpers.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Http.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Mvc.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.Razor.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\RiotSharp.xml
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Net.Http.Formatting.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Helpers.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Http.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Http.WebHost.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Mvc.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.Razor.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.WebPages.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.csprojResolveAssemblyReference.cache
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.dll
+C:\Users\buehra\Desktop\LoLCurrentGame.Web\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.dll.config
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.Web.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.Business.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Abstract.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Concrete.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\Newtonsoft.Json.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.Helpers.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.Mvc.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.Razor.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.WebPages.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\RiotSharp.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.Business.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Abstract.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\LoLCurrentGame.DataAccess.Concrete.pdb
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\Newtonsoft.Json.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.Helpers.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.Mvc.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.Razor.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.WebPages.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\RiotSharp.xml
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\de\System.Web.Helpers.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\de\System.Web.Mvc.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\de\System.Web.Razor.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\de\System.Web.WebPages.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.csprojResolveAssemblyReference.cache
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.dll
+C:\Users\Raphael\Documents\Visual Studio 2013\Projects\LoLCurrentGame\LoLCurrentGame.Web\obj\Debug\LoLCurrentGame.Web.pdb

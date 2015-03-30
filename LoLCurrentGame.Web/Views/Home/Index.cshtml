@@ -1,0 +1,50 @@
+﻿@model LoLCurrentGame.Web.ViewModels.ViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript">
+    var oldregion = "euw";
+
+
+    function changeClass(id) {
+        var region = document.getElementById(id);
+
+        
+        if (!$(region).hasClass("btn btn-default active")) {
+            var allRegion = document.getElementById(oldregion);
+
+            oldregion = id;
+       
+            allRegion.className = "btn btn-default";
+
+            region.className = "btn btn-default active";
+            document.getElementById("Region").value = id;
+        }
+
+
+    }
+
+</script>
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+            {
+    <div class="col-lg-12">
+        <div class="input-group">
+            @Html.TextBoxFor(model => model.Summonername, new { @class = "form-control", @placeholder = "Enter a player currently in an active match" })
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit">Search</button>
+            </span>
+        </div>
+        <br />
+        <div class="btn-group" role="group" id="RegionGroup">
+            <button type="button" id="na" class="btn btn-default" onclick=" changeClass('na') ">NA</button>
+            <button type="button" id="euw" class="btn btn-default active" onclick=" changeClass('euw') ">EUW</button>
+            <button type="button" id="eune" class="btn btn-default" onclick=" changeClass('eune') ">EUNE</button>
+            <button type="button" id="br" class="btn btn-default" onclick=" changeClass('br') ">BR</button>
+            <button type="button" id="lan" class="btn btn-default" onclick=" changeClass('lan') ">LAN</button>
+            <button type="button" id="las" class="btn btn-default" onclick=" changeClass('las') ">LAS</button>
+            <button type="button" id="oce" class="btn btn-default" onclick=" changeClass('oce') ">OCE</button>
+        </div>
+        @Html.HiddenFor(model => model.Region, new { @value = "euw"})
+    </div>
+}
